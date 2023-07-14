@@ -1,6 +1,4 @@
-*.swp
-*.tmp
-*.log
-
-coverage/
 node_modules/
+.env
+
+yarn-error.log
